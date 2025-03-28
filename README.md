@@ -29,7 +29,7 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
 
 
 
-##ESP
+## ESP
 ![image](https://github.com/user-attachments/assets/f4547d41-4e24-4350-8a3a-3c98a12b2258)
 
 - Hide Team - This will hide wether or not your teammates are on ESP / targeted with Aimbot
@@ -47,12 +47,12 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
 - Dynamic Color - This gives you 2 color pickers, that will change the color of the bones based on 75% and 25% health. 
   Color picker allows you to use custom colors. Default colors are Yellow for 75% and Red for 25% health.
 
-##Aimbot / No Recoil
+## Aimbot / No Recoil
 
 ![image](https://github.com/user-attachments/assets/bad1a931-c1fa-4377-ae90-defa5db6a714)
 
 
-#Important Aimbot Information
+# Important Aimbot Information
 - Connect on Start-up - This auto runs the function during the launch of the program, automatically connecting the Kmbox. 
   Be sure to go to Settings and press Save Config to ensure that it is enabled on next start-up.
 - Aimkey - this is a drop down menu that allows for the choosing of Left Mouse, Right Mouse, Middle Mouse, Side Button 1, 
@@ -73,7 +73,7 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
   Higher the value, the more powerful the script is.
 
 
-#Settings 
+## Settings 
 
 - Save config to file, along with load config so you can mess around with the settings and always go back to preferred 
   settings when re-launching the program. 
@@ -83,7 +83,7 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
 - Show FPS - This shows the current FPS of the menu. Due to the way it is written, 10,000+ FPS is standard.
 - Credits - Crediting those who helped me along the way.
 
-#To do / Future Improvements
+## To do / Future Improvements
 - [ ] Item ESP
 - [ ] Prediction / View angle based Aimbot
 - [ ] Engine improvement
