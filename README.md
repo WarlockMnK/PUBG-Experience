@@ -24,14 +24,14 @@ This project includes the following improvements. (2/12/2025)
 Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot. <strike> Update for dynamic input is coming soon </strike>
 
 To do / Future Improvements
-- [] Item ESP
-- [] Prediction / View angle based Aimbot
-- [] Engine improvement
-- [] Better entity caching
-- [] Controller support
-- [] Kmbox B+ support
-- [] Memory aim (if UE supports it)
-- [] Visibility Check
+- [ ] Item ESP
+- [ ] Prediction / View angle based Aimbot
+- [ ] Engine improvement
+- [ ] Better entity caching
+- [ ] Controller support
+- [ ] Kmbox B+ support
+- [ ] Memory aim (if UE supports it)
+- [ ] Visibility Check
 
 
 
