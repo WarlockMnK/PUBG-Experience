@@ -36,6 +36,12 @@ To do / Future Improvements
 
 ![image](https://github.com/user-attachments/assets/24cd8fd0-dbd6-4452-8bb3-dfa0a88dec50)
 
+![image](https://github.com/user-attachments/assets/f4547d41-4e24-4350-8a3a-3c98a12b2258)
+
+![image](https://github.com/user-attachments/assets/bad1a931-c1fa-4377-ae90-defa5db6a714)
+
+
+
 
 License and Usage
 Fair Use License: This software is licensed under the Fair Use policy. It is not to be sold, redistributed, or used for any commercial purposes.
