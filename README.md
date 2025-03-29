@@ -1,4 +1,4 @@
-# PUBG-Experience
+# PUBG-Experience Welcome!
 
 ![image](https://github.com/user-attachments/assets/24cd8fd0-dbd6-4452-8bb3-dfa0a88dec50)
 
@@ -6,11 +6,11 @@
 Read Me - PUBG DMA
 Thank you for using my software! This software is provided to you for personal and non-commercial use only.
 
-This is 100% a passion project and is constantly being worked on. All updates regarding offsets will be posted here. 
+**This is 100% a passion project and is constantly being worked on. All updates will be posted here.**
 
 Details: This build is a heavily modified version of the software made by iStar.
 
-This project includes the following improvements. (2/12/2025)
+This project includes the following improvements. As of 3/28/2025.
 
 - Uncapped FPS and rendering
 - ImGui usage
