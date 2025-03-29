@@ -34,7 +34,7 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
 
 - Hide Team - This will hide wether or not your teammates are on ESP / targeted with Aimbot
 - Show Type - This shows wether the enemy is AI or Player.
-- Spectaor Count - This shows all spectators currently watching you, including teammates
+- Spectator Count - This shows all spectators currently watching you, including teammates
 - Distance - Shows distance in Meters, along with a slider to change text size and a color picker.
 - Max Distance - This limits the ESP render range, again in Meters.
 - Mini Map - Normal is the standard small corner minimap, Enlarged is the larger minimap. Color pickers for self and enemy.
