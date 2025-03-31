@@ -54,7 +54,7 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
 
 
 # Important Aimbot Information
-###Please note: If you Kmbox.NET is not properly spoofed at firmware level, it is prone to being detected.
+### Please note: If you Kmbox.NET is not properly spoofed at firmware level, it is prone to being detected.
 - Connect on Start-up - This auto runs the function during the launch of the program, automatically connecting the Kmbox. 
   Be sure to go to Settings and press Save Config to ensure that it is enabled on next start-up.
 - Aimkey - this is a drop down menu that allows for the choosing of Left Mouse, Right Mouse, Middle Mouse, Side Button 1, 
