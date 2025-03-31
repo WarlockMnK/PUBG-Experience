@@ -49,10 +49,12 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
 
 ## Aimbot / No Recoil
 
-![image](https://github.com/user-attachments/assets/bad1a931-c1fa-4377-ae90-defa5db6a714)
+![Screenshot 2025-03-31 140648](https://github.com/user-attachments/assets/bb57aec7-c0c8-4a04-a202-156c44c5f8ee)
+
 
 
 # Important Aimbot Information
+###Please note: If you Kmbox.NET is not properly spoofed at firmware level, it is prone to being detected.
 - Connect on Start-up - This auto runs the function during the launch of the program, automatically connecting the Kmbox. 
   Be sure to go to Settings and press Save Config to ensure that it is enabled on next start-up.
 - Aimkey - this is a drop down menu that allows for the choosing of Left Mouse, Right Mouse, Middle Mouse, Side Button 1, 
@@ -72,6 +74,7 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
 - No Recoil - This pulls the mouse down with a script that also scans for Q and E presses to compensate for lean.
   Higher the value, the more powerful the script is.
 
+  -Debug - This allows you to restart your Kmbox.NET on the fly without having to unplug it. Useful if you encounter issues. 
 
 ## Settings 
 
