@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/24cd8fd0-dbd6-4452-8bb3-dfa0a88dec50)
 
+[Discord](https://discord.gg/A7mecEgJ5t)
+
 
 Read Me - PUBG DMA
 Thank you for using my software! This software is provided to you for personal and non-commercial use only.
