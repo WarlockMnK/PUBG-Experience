@@ -8,6 +8,9 @@ Thank you for using my software! This software is provided to you for personal a
 
 **This is 100% a passion project and is constantly being worked on. All updates will be posted here.**
 
+***Currently facing a bug with entity list. Press Delete on either keyboards to reinit the program***
+
+
 Details: This build is a heavily modified version of the software made by iStar.
 
 This project includes the following improvements. As of 3/28/2025.
