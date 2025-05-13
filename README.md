@@ -97,7 +97,7 @@ This project includes the following improvements. As of 3/28/2025.
 - [ ] Engine improvement
 - [ ] Better entity caching
 - [ ] Controller support
--  <strike> Kmbox B+ support </strike> Added along with MAKCU
+- [X] <strike> Kmbox B+ support </strike> Added along with MAKCU
 - [ ] Memory aim (if UE supports it)
 - [ ] Visibility Check
 
