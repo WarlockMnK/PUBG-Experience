@@ -30,8 +30,8 @@ This project includes the following improvements. As of 3/28/2025.
 * This means that it DOES NOT have prediction and also does not scale over distance.
 * When using Aimbot, be sure to use the correct Reticle Offset for your weapon. A tool tip when hovering over the slider shows manually tested values.
 
-Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot. <strike> Update for dynamic input is coming soon </strike>
-
+- Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot. <strike> Update for dynamic input is coming soon </strike>
+- Kmbox B Pro+ and Makcu are now all supported
 
 
 ## ESP
@@ -59,7 +59,7 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
 
 
 # Important Aimbot Information
-### Please note: If you Kmbox.NET is not properly spoofed at firmware level, it is prone to being detected.
+### Please note: If you Aiming Device is not properly spoofed at firmware level, it is prone to being detected.
 - Connect on Start-up - This auto runs the function during the launch of the program, automatically connecting the Kmbox. 
   Be sure to go to Settings and press Save Config to ensure that it is enabled on next start-up.
 - Aimkey - this is a drop down menu that allows for the choosing of Left Mouse, Right Mouse, Middle Mouse, Side Button 1, 
@@ -79,7 +79,7 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
 - No Recoil - This pulls the mouse down with a script that also scans for Q and E presses to compensate for lean.
   Higher the value, the more powerful the script is.
 
-  -Debug - This allows you to restart your Kmbox.NET on the fly without having to unplug it. Useful if you encounter issues. 
+- Debug - This allows you to restart your Kmbox.NET on the fly without having to unplug it. Useful if you encounter issues. 
 
 ## Settings 
 
@@ -97,7 +97,7 @@ Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot.
 - [ ] Engine improvement
 - [ ] Better entity caching
 - [ ] Controller support
-- [ ] Kmbox B+ support
+-  <strike> Kmbox B+ support </strike> Added along with MAKCU
 - [ ] Memory aim (if UE supports it)
 - [ ] Visibility Check
 
