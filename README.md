@@ -68,6 +68,8 @@ This project includes the following improvements. As of 3/28/2025.
   disable Aimbot and simply just have No Recoil.
 - Connect - This button connects your Kmbox.NET manually, your IP, Port, and UUID will be displayed next to it, ensure 
   these details are correct before attempting to connect or the program will crash.
+
+  For B Pro and MAKCU simply apply the correct COM Port and Baud Rate and press connect.
 - Smoothness - Time in ms to for center of FOV circle to reach target. Lower = snappier
 - Max Distance - The maximum distance to scan for targets within the FOV Circle
 - Reticle Offset - This is a per gun value, that is directly tied to the in-game Muzzle Rize mechanic that brings
@@ -93,7 +95,7 @@ This project includes the following improvements. As of 3/28/2025.
 
 ## To do / Future Improvements
 - [ ] Item ESP
-- [ ] Prediction / View angle based Aimbot
+- [X] Prediction / View angle based Aimbot
 - [ ] Engine improvement
 - [ ] Better entity caching
 - [ ] Controller support
