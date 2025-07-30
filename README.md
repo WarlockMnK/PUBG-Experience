@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/24cd8fd0-dbd6-4452-8bb3-dfa0a88dec50)
 
-[Discord](https://discord.gg/A7mecEgJ5t)
+[Discord]((https://discord.gg/a7yxmkapJD))
 
 
 Read Me - PUBG DMA
