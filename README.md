@@ -10,8 +10,6 @@ Thank you for using my software! This software is provided to you for personal a
 
 **This is 100% a passion project and is constantly being worked on. All updates will be posted here.**
 
-***Currently facing a bug with entity list. Press Delete on either keyboards to reinit the program***
-
 
 Details: This build is a heavily modified version of the software made by iStar.
 
@@ -25,9 +23,8 @@ This project includes the following improvements. As of 3/28/2025.
 - Healthbars
 - Full Mouse only support
 - New Style
-- Aimbot through the usage of Kmbox.NET devices
-* The Aimbot is buggy (working on solutions) and also uses World to Screen as of the current patch.
-* This means that it DOES NOT have prediction and also does not scale over distance.
+- Aimbot through the usage of Kmbox.NET, Kmbox B PRO, and MAKCU devices
+* Aimbot no longer uses World to Screen and has option for Prediction.
 * When using Aimbot, be sure to use the correct Reticle Offset for your weapon. A tool tip when hovering over the slider shows manually tested values.
 
 - Aimkey is now choosable through a dropdown menu. No Recoil works without Aimbot. <strike> Update for dynamic input is coming soon </strike>
@@ -62,15 +59,14 @@ This project includes the following improvements. As of 3/28/2025.
 ### Please note: If you Aiming Device is not properly spoofed at firmware level, it is prone to being detected.
 - Connect on Start-up - This auto runs the function during the launch of the program, automatically connecting the Kmbox. 
   Be sure to go to Settings and press Save Config to ensure that it is enabled on next start-up.
-- Aimkey - this is a drop down menu that allows for the choosing of Left Mouse, Right Mouse, Middle Mouse, Side Button 1, 
-  and Side Button 2 to be used for the Aimbot / No Recoil key. The Aimkey is a Dual Input, so Aimbot and No Recoil are 
+- Aimkey - Simply click the button and then press the key on your main machine to be used for the Aimbot / No Recoil key. The Aimkey is a Dual Input, so Aimbot and No Recoil are 
   both bound to it. This mean you can enable Aimbot and have No Recoil as well, Disable No Recoil and just have Aimbot, or 
   disable Aimbot and simply just have No Recoil.
 - Connect - This button connects your Kmbox.NET manually, your IP, Port, and UUID will be displayed next to it, ensure 
   these details are correct before attempting to connect or the program will crash.
 
   For B Pro and MAKCU simply apply the correct COM Port and Baud Rate and press connect.
-- Smoothness - Time in ms to for center of FOV circle to reach target. Lower = snappier
+- Smoothness - The measure of the strength of the pull. Lower = stronger
 - Max Distance - The maximum distance to scan for targets within the FOV Circle
 - Reticle Offset - This is a per gun value, that is directly tied to the in-game Muzzle Rize mechanic that brings
   The reticle away from the center of the screen. Hover for Tool Tip information about what values are recommended
@@ -101,7 +97,8 @@ This project includes the following improvements. As of 3/28/2025.
 - [ ] Controller support
 - [X] Kmbox B+ / Makcu support 
 - [ ] Memory aim (if UE supports it)
-- [ ] Visibility Check
+- [X] Visibility Check
+- [X] Dynamic Aimkey support 
 
 
 
