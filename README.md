@@ -23,12 +23,12 @@ This project includes the following improvements. As of 3/28/2025.
 - Healthbars
 - Full Mouse only support
 - New Style
-- Aimbot through the usage of Kmbox.NET, Kmbox B PRO, and MAKCU devices
+- Aimbot through the usage of aim devices.
 * Aimbot no longer uses World to Screen and has option for Prediction.
 * When using Aimbot, be sure to use the correct Reticle Offset for your weapon. A tool tip when hovering over the slider shows manually tested values.
 
 - Aimkey is now choosable by clicking Aimkey button, and then pressing a key on your main machine. No Recoil works without Aimbot. <strike> Update for dynamic input is coming soon </strike>
-- Kmbox B Pro+ and Makcu are now all supported
+- Kmbox.NET, Kmbox B Pro+, and Makcu are now all supported
 
 
 ## ESP
