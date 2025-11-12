@@ -92,8 +92,8 @@ This project includes the following improvements. As of 3/28/2025.
 ## To do / Future Improvements
 - [ ] Item ESP
 - [X] Prediction / View angle based Aimbot
-- [ ] Engine improvement
-- [ ] Better entity caching
+- [X] Engine improvement
+- [X] Better entity caching
 - [ ] Controller support
 - [X] Kmbox B+ / Makcu support 
 - [ ] Memory aim (if UE supports it)
