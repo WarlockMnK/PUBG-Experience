@@ -24,6 +24,7 @@ This project includes the following improvements. As of 3/28/2025.
 - Healthbars
 - Full Mouse only support
 - New Style
+- Raycasting for Visiblity Check
 - Aimbot through the usage of aim devices.
 * Aimbot no longer uses World to Screen and has option for Prediction.
 - Aimkey is now choosable by clicking Aimkey button, and then pressing a key on your main machine. No Recoil works without Aimbot. <strike> Update for dynamic input is coming soon </strike>
