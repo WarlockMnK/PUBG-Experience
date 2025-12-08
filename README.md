@@ -26,16 +26,15 @@ This project includes the following improvements. As of 3/28/2025.
 - New Style
 - Aimbot through the usage of aim devices.
 * Aimbot no longer uses World to Screen and has option for Prediction.
-* When using Aimbot, be sure to use the correct Reticle Offset for your weapon. A tool tip when hovering over the slider shows manually tested values.
-
 - Aimkey is now choosable by clicking Aimkey button, and then pressing a key on your main machine. No Recoil works without Aimbot. <strike> Update for dynamic input is coming soon </strike>
-- Kmbox.NET, Kmbox B Pro+, and Makcu are now all supported
+- Kmbox.NET, Kmbox B Pro, and Makcu are now all supported
 
 
 ## ESP
 ![image](https://github.com/user-attachments/assets/f4547d41-4e24-4350-8a3a-3c98a12b2258)
 
 - Hide Team - This will hide wether or not your teammates are on ESP / targeted with Aimbot
+- Visiblity Check - This uses raycasting and can be adjusted from 1, 2, 4, 8, and 16 samples
 - Show Type - This shows wether the enemy is AI or Player.
 - Spectator Count - This shows all spectators currently watching you, including teammates
 - Distance - Shows distance in Meters, along with a slider to change text size and a color picker.
