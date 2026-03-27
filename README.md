@@ -91,7 +91,7 @@ This project includes the following improvements. As of 3/28/2025.
 - Credits - Crediting those who helped me along the way.
 
 ## To do / Future Improvements
-- [ ] Item ESP
+- [X] Item ESP
 - [X] Prediction / View angle based Aimbot
 - [X] Engine improvement
 - [X] Better entity caching
